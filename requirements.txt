@@ -1,0 +1,14 @@
+langchain
+langchain_community
+ipykernel
+langchain_google_genai
+python-dotenv
+streamlit
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+unstructured
+pypdf
+pdfminer.six
+nest_asyncio

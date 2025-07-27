@@ -1,0 +1,4 @@
+qa-chatbot
+.env
+db
+src/__pycache__
