@@ -1,6 +1,3 @@
-Here's a professional `README.md` for your NeuroQuery project with all requested elements:
-
-```markdown
 # NeuroQuery: Intelligent Answers from Your Documents
 
 ![NeuroQuery Banner](screenshots/banner.png) <!-- Add your screenshot path here -->
@@ -34,7 +31,7 @@ graph TD
 
 ## Technology Stack
 
-### Core Libraries
+ ### Core Libraries 
 
 | Category | Libraries |
 |----------|-----------|
@@ -108,4 +105,4 @@ streamlit run app.py
 
 ---
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Jasjeev Singh Kohli
